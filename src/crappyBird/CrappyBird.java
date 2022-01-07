@@ -20,7 +20,7 @@ public class CrappyBird implements ActionListener, MouseListener, KeyListener{
 	
 	public static CrappyBird crappyBird;
 	
-	public final int WIDTH = 1200, HEIGHT = 800;
+	public final int WIDTH = 1200, HEIGHT = 700;
 	
 	public Renderer renderer;
 	
